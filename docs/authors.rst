@@ -1,1 +1,1 @@
-.. include:: ../AUTHORS.rst
+<a href="https://github.com"><b>https://github.com</b></a>
